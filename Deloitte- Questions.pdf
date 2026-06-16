@@ -1,0 +1,23 @@
+deloitte - R1 - questions:
+  1. What is connect SQL method and why do we use it.
+  2. Did you work on connect REST and its funtionality.
+  3. so if I want to put an action in a case workflow where I can go to the Actions of a case and pause it for a while. How do you design it in the UI? will it be a case while optional process or optional actions?
+  4. I need three actions in a Case workflow? where at any point of case i can go the actions and should able to select theses three options UI Pause Case, Resume Case and Reset Case? Where Resume case should only be visible whenever the case is being paused? How do configure it?
+  5. How to pause a case when it has an SLA running on it?
+  6. How to resume an SLA when it is paused?
+
+Deloitte - R2 - Questions :
+  1. What is project that you have worked on.
+  2. What is best thing that you have worked on in your current project.
+  3. What is Serialisation of a property?
+  4. I have an API in a case when the case goes to a certain step it calls API and the case has to be stopped until it receives an response when it receives response it resume? how do you design whole workflow around it. Be specific step-by-step  how you configure?
+  5. If a user wants to login to a pega portal he enters operator id and password? He has to enter password in strong format like alphanumeric and special characters? to achieve this What configuration should i do in pega?
+  6. I have report definiton in the report Browser when I check a report I will fetch all the reports of a class but now I want to get records from the below classes as well what configuration should I do to achieve this in a report definition?
+  7. I have a Boolean property in the report definition that is comming as true/false but I have to show it in the Ui as well in the report browser. How should I change the incoming boolean property to Yes/No?
+  8. Manager wants to fetch all the users that are logged in to the system so in report definition what property is that which will indicate if a user is logged in or not?
+  9. What is the specific property that is being used to check if a user is logged in or not?
+  10. What is authentication Service and authentication Profile? what is the difference between them?
+  11. If I have a service rest that is causing issues sometimes and wanted to debug it. to test the service hit you need a payload that you will ask the client or sender system but for some reason They could not able to provide the payload so how do you get that exact payload when the service rest is being hit by client which was causing the issue?
+  12. What is a data set?
+  13. Did you work on SSO?
+  14. does data set is only being used for Kafka?
